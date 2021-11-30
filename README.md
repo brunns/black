@@ -170,6 +170,10 @@ Twisted and CPython:
 
 > This vastly improves the formatting of our code. Thanks a ton!
 
+**The Thoughtworks Tech Radar**
+
+> [Opinionated and automated code formatting](https://www.thoughtworks.com/radar/techniques/opinionated-and-automated-code-formatting): Even if you don't agree 100% with the opinions of the various tools, the benefits of focusing on what your code does rather than how it looks is something most teams should be able to get behind. Prettier has been getting our vote for JavaScript, but similar tools, such as Black for Python, are available for many other languages.
+
 ## Show your style
 
 Use the badge in your project's README.md:
